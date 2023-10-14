@@ -4,121 +4,141 @@
             "id": 1,
             "title": "사이퍼즈",
             "tag": ["AOS"],
-            "image" : "/img/사퍼.jpg"
+            "image" : "/img/사퍼.jpg",
+            "comment" : "타격감과 빠른템포. 이만한게임은 없다. 렉이 많을뿐.."
         },
         {
             "id": 2,
             "title": "Genshin Impact",
             "tag": ["어드벤쳐", "RPG"],
-            "image": "/img/원신.jpg"
+            "image": "/img/원신.jpg",
+            "comment" : "그래픽 좋고 재밌음. 가끔 이상한 스토리와 캐디 주의."
         },
         {
             "id": 3,
             "title": "Ori and the Will of the Wisps",
             "tag": ["어드벤쳐"],
-            "image":"/img/오리.jpg"
+            "image":"/img/오리.jpg",
+            "comment" : "적절한 난이도와 판정. 예쁜 그래픽. 강력 추천!"
         },
         {
             "id": 4,
             "title": "It Takes Two",
             "tag": ["퍼즐", "협동"],
-            "image":"/img/잇테익스투.jpg"
+            "image":"/img/잇테익스투.jpg",
+            "comment" : "진짜 잘만들었음. 친구 있으면 강력 추천!"
         },
         {
             "id": 5,
             "title": "이카루스",
             "tag": ["MMORPG"],
-            "image":"/img/이카루스.jpg"
+            "image":"/img/이카루스.jpg",
+            "comment" : "펠로우시스템 꿀잼. MMORPG 중 젤 열심히 했'었'다. 지금은 사람이..."
         },
         {
             "id": 6,
             "title": "테라",
             "tag": ["MMORPG"],
-            "image":"/img/테라.jpg"
+            "image":"/img/테라.jpg",
+            "comment" : "논타겟팅 꿀잼. 친구랑 파티플 재밌게 했다. 어느날 보니 섭종했더라."
         },
         {
             "id": 7,
             "title": "Rainbow Six Siege",
             "tag": ["FPS"],
-            "image":"/img/레식.jpg"
+            "image":"/img/레식.jpg",
+            "comment" : "게임길치라 접었지만, 친구가 꼬실 땐 재밌게했다. 고인물이 너무 많다."
         },
         {
             "id": 8,
             "title": "포켓몬스터 DP",
             "tag": ["닌텐도DS"],
-            "image":"/img/포켓몬.jpg"
+            "image":"/img/포켓몬.jpg",
+            "comment" : ""
         },
         {
             "id": 9,
             "title": "Deemo",
             "tag": ["리듬", "모바일"],
-            "image":"/img/디모.jpg"
+            "image":"/img/디모.jpg",
+            "comment" : ""
         },
         {
             "id": 10,
             "title": "메이플스토리",
             "tag": ["MMORPG"],
-            "image":"/img/메이플.jpg"
+            "image":"/img/메이플.jpg",
+            "comment" : "인생 첫 PC 게임. 주황버섯이 무서웠다."
         },
         {
             "id": 11,
             "title": "카트라이더",
             "tag": ["레이싱"],
-            "image":"/img/카트.jpg"
+            "image":"/img/카트.jpg",
+            "comment" : ""
         },
         {
             "id": 12,
             "title": "Portal 2",
             "tag": ["퍼즐"],
-            "image":"/img/포탈.jpg"
+            "image":"/img/포탈.jpg",
+            "comment" : ""
         },
         {
             "id": 13,
             "title": "Gris",
             "tag": ["어드벤쳐"],
-            "image":"/img/그리스.jpg"
+            "image":"/img/그리스.jpg",
+            "comment" : ""
         },
         {
             "id": 14,
             "title": "Don't Starve Together",
             "tag": ["협동", "생존"],
-            "image":"/img/돈스타브.jpg"
+            "image":"/img/돈스타브.jpg",
+            "comment" : ""
         },
         {
             "id": 15,
             "title": "데스티니 가디언즈",
             "tag": ["FPS", "RPG"],
-            "image":"/img/데가.jpg"
+            "image":"/img/데가.jpg",
+            "comment" : ""
         },
         {
             "id": 16,
             "title": "블레이드 앤 소울",
             "tag": ["MMORPG"],
-            "image":"/img/블소.jpg"
+            "image":"/img/블소.jpg",
+            "comment" : ""
         },
         {
             "id": 17,
             "title": "윈드러너",
             "tag": ["모바일"],
-            "image":"/img/윈드러너.jpg"
+            "image":"/img/윈드러너.jpg",
+            "comment" : ""
         },
         {
             "id": 18,
             "title": "우파루마운틴",
             "tag": ["모바일","육성"],
-            "image":"/img/우파루.jpg"
+            "image":"/img/우파루.jpg",
+            "comment" : ""
         },
         {
             "id": 19,
             "title": "마리오카트",
             "tag": ["닌텐도DS"],
-            "image":"/img/마리오카트.jpg"
+            "image":"/img/마리오카트.jpg",
+            "comment" : ""
         },
         {
             "id": 20,
             "title": "바운스볼",
             "tag": ["모바일"],
-            "image":"/img/바운스볼.jpg"
+            "image":"/img/바운스볼.jpg",
+            "comment" : ""
         }      
     ],
     "banners":[
