@@ -5,7 +5,7 @@
             "title": "사이퍼즈",
             "tag": ["AOS", "PC 게임"],
             "image" : "/img/사퍼.jpg",
-            "comment" : "타격감과 빠른템포. 이만한 게임은 없다. 렉이 많을뿐.."
+            "comment" : "타격감과 빠른템포. 이만한 게임은 없다. 렉이 많을뿐..",
             "score" : {"그래픽":2, "재미":5, "난이도":5, "조작감":5, "추천해요":3}
         },
         {
@@ -61,7 +61,8 @@
             "title": "포켓몬스터 DP",
             "tag": ["닌텐도DS 게임"],
             "image":"/img/포켓몬.jpg",
-            "comment" : "수많은 DS 게임 중에 제일 시간을 많이 썼다. 가끔씩 그립다."
+            "comment" : "수많은 DS 게임 중에 제일 시간을 많이 썼다. 가끔씩 그립다.",
+            "score": {}
         },
         {
             "id": 9,
@@ -76,14 +77,16 @@
             "title": "메이플스토리",
             "tag": ["MMORPG", "PC 게임"],
             "image":"/img/메이플.jpg",
-            "comment" : "인생 첫 PC 게임. 주황버섯이 무서웠다."
+            "comment" : "인생 첫 PC 게임. 주황버섯이 무서웠다.",
+            "score": {}
         },
         {
             "id": 11,
             "title": "카트라이더",
             "tag": ["레이싱"],
             "image":"/img/카트.jpg",
-            "comment" : "학교 컴퓨터에 깔려있어서 엄청 많이 했다. 러쉬+도 잠깐 했는데 이기질 못하더라."
+            "comment" : "학교 컴퓨터에 깔려있어서 엄청 많이 했다. 러쉬+도 잠깐 했는데 이기질 못하더라.",
+            "score": {}
         },
         {
             "id": 12,
@@ -106,7 +109,8 @@
             "title": "Don't Starve Together",
             "tag": ["협동", "생존", "PC 게임"],
             "image":"/img/돈스타브.jpg",
-            "comment" : "친구들이랑 하면 꿀잼. 근데 너무 어려워요ㅠㅠ 모드 설치 필수예요."
+            "comment" : "친구들이랑 하면 꿀잼. 근데 너무 어려워요ㅠㅠ 모드 설치 필수예요.",
+            "score": {}
         },
         {
             "id": 15,
@@ -121,35 +125,40 @@
             "title": "블레이드 앤 소울",
             "tag": ["MMORPG", "PC 게임"],
             "image":"/img/블소.jpg",
-            "comment" : ""
+            "comment" : "",
+            "score": {}
         },
         {
             "id": 17,
             "title": "윈드러너",
             "tag": ["모바일 게임"],
             "image":"/img/윈드러너.jpg",
-            "comment" : ""
+            "comment" : "",
+            "score": {}
         },
         {
             "id": 18,
             "title": "우파루마운틴",
             "tag": ["모바일 게임","육성"],
             "image":"/img/우파루.jpg",
-            "comment" : ""
+            "comment" : "",
+            "score": {}
         },
         {
             "id": 19,
             "title": "마리오카트",
             "tag": ["닌텐도DS 게임"],
             "image":"/img/마리오카트.jpg",
-            "comment" : ""
+            "comment" : "",
+            "score": {}
         },
         {
             "id": 20,
             "title": "바운스볼",
             "tag": ["모바일 게임"],
             "image":"/img/바운스볼.jpg",
-            "comment" : ""
+            "comment" : "",
+            "score": {}
         }      
     ],
     "banners":[
